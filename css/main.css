@@ -37,8 +37,8 @@ img {
     
     width: 100%;                                  /* 100% ширины от тега body */
     height: 100vh;                                /* 100 единиц vh(view height) */
-    /* background-color: #556983;
-    background-image: url("./../Img/Header/Header.jpg"); */
+    background-color: #556983;
+    background-image: url("./../Img/Header/Header.jpg");
     background-size: cover;
     background-position: center;
 
